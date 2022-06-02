@@ -1,7 +1,6 @@
 on:
   rss:
-    url:
-      - https://coolshell.cn/feed
+    url: https://coolshell.cn/feed
       
       
 jobs:
